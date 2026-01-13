@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyalonkar-sdn&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyalonkar-sdn" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on smartData Enterprise<br><br>🌱 I’m currently learning AI ML<br><br>👨‍💻 All of my projects are available at https://chaitanyalonarkar.netlify.app<br><br>💬 Ask me about Full Stack Development<br><br>📫 How to reach me chaitanyalonarkar@gmail.com<br><br>⚡ Fun fact I am Vibe Coder
+🔭 I’m currently working in smartData Enterprise<br><br>🌱 I’m currently learning AI ML<br><br>👨‍💻 All of my projects are available at https://chaitanyalonarkar.netlify.app<br><br>💬 Ask me about Full Stack Development<br><br>📫 How to reach me chaitanyalonarkar@gmail.com<br><br>⚡ Fun fact I am Vibe Coder
 
 
 # 💻 Tech Stack:
