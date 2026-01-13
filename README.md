@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyalonkar-sdn" alt="chaitanyalonkar-sdn" /></a> </p>
 
-- 🔭 I’m currently working on **Xtegrity**
+- 🔭 I’m currently working on **smartData Enterprise**
 
 - 🌱 I’m currently learning **AI ML**
 
